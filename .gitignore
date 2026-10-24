@@ -1,0 +1,17 @@
+# Environment Variables
+.env
+*.env
+client/.env
+server/.env
+
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+build/
+
+# Operating System & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
